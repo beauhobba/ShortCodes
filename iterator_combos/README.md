@@ -1,5 +1,5 @@
 ## How to use iterator combos in Python
 
-Youtube explanation is here: https://www.youtube.com/shorts/ZhNAycn21U8
+Youtube explanation is here: https://www.youtube.com/shorts/ksUpeNG9rNo
 
 
