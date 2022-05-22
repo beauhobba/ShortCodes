@@ -1,4 +1,3 @@
-
 def roll_call(name, age, phone):
     print("name", name,"age",age,"phone",phone)
     
