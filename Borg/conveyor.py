@@ -1,4 +1,4 @@
-class Conveyer:
+class Conveyor:
     __shared_state = {} 
     def __init__(self):
         self.__dict__ = self.__shared_state
@@ -13,8 +13,8 @@ class Conveyer:
         self.speed = speed 
         
 
-programmer1 = Conveyer() 
-programmer2  = Conveyer() 
+programmer1 = Conveyor() 
+programmer2  = Conveyor() 
 
 programmer1.change_speed(2)
 programmer2.change_speed(5)
