@@ -1,8 +1,20 @@
+def sub(x, y):
+    return x - y
+
+def add(x, y):
+    return x + y
+
+def mul(x, y):
+    return x *  y
+
+def div(x, y):
+    return x / y
+
 operations = {
-    'ADD': lambda x,y: x+y,
-    'SUB': lambda x,y: x-y,
-    'MUL': lambda x,y: x*y,
-    'DIV': lambda x,y: x/y,
+    'ADD': add,
+    'SUB': sub,
+    'MUL': mul,
+    'DIV': div
         }
 
 print(operations['DIV'](1, 2))
