@@ -1,6 +1,6 @@
 # Partials in Python
 
-Youtube explanation is here: https://youtube.com/shorts/gdF8EUWhfFE
+Youtube explanation is here: https://www.youtube.com/shorts/bf1D7gIdLAA?&ab_channel=TheMomentShorts
 
 
 <br>
