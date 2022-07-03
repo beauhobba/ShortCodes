@@ -1,6 +1,6 @@
 # Password Generation in Python
 
-Youtube explanation is here: https://www.youtube.com/watch?v=QtGtollqwAI&ab_channel=BeauHobba
+Youtube explanation is here: https://www.youtube.com/watch?v=CqMsMK6FdVU&ab_channel=BeauHobba
 
 
 <br>
