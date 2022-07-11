@@ -1,6 +1,6 @@
 # Generators in Python
 
-Youtube explanation is here: https://www.youtube.com/shorts/bf1D7gIdLAA?&ab_channel=TheMomentShorts
+Youtube explanation is here: https://www.youtube.com/watch?v=G8tLV_NoJ9Q&ab_channel=BeauHobba
 
 
 <br>
