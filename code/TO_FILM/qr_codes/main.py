@@ -4,7 +4,8 @@
 import requests
 
 
-API_CALL = "https://api.qrserver.com/v1/create-qr-code/?size=300x300&data="
+API_CALL = "https://api.qrserver.com/v1/\
+create-qr-code/?size=300x300&data="
 
 
 def create_qr_code(website):
